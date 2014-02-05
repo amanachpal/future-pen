@@ -5,3 +5,4 @@ A JavaCV + Android implementation which allows live tracking of writing by means
 Features:-
 * Uses a webcam to capture the movement of the LED which is then processed using JavaCV.
 * Built to be easily customisable. The co-ordinates processed can be used for anything you wish, from virtual-reality based gaming to architecture.
+Authors: Aman Achpal and Adithya Abraham.
